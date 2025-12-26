@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../assets/bimfroxlogo1.png"
+import logo from "../assets/00002.png"
 import Home from './Home'
 import About from './About'
 import Service from './Service'
