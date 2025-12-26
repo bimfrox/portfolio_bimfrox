@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div className='mt-10 px-4 text-center'>
-      <h1 className='text-3xl md:text-5xl font-bold text-emerald-900 font-serif'>
+      <h1 className='text-3xl md:text-5xl font-bold text-[#38b6ff] font-serif'>
         BIMFROX, Web Solutions for Business Growth
       </h1>
       <br />
